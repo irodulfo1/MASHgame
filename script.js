@@ -71,3 +71,4 @@ var form = document.querySelector('#mash');
 
 // Anytime the form is submitted, we want to call the function handle_submission 
 form.addEventListener('submit', handle_submission);
+ 
